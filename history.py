@@ -1,0 +1,40 @@
+# -*- coding: utf-8 -*-
+# *** Spyder Python Console History Log ***
+
+## ---(Wed May 12 18:15:21 2021)---
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/temp.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled0.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled1.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled2.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled3.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled4.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled3.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+
+## ---(Thu May 13 17:47:11 2021)---
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled0.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled1.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled2.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+63
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled2.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled3.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled4.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled5.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/datentime.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled6.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled7.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled9.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled10.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled11.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+print(c)
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled12.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/swapingofnumperlist.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled13.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled14.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled15.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled16.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled17.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled18.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled19.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled20.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled21.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
+runfile('C:/Users/ARJUN KRIHA/.spyder-py3/untitled22.py', wdir='C:/Users/ARJUN KRIHA/.spyder-py3')
